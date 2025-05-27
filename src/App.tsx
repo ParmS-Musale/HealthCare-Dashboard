@@ -10,7 +10,6 @@ function App() {
       
       <div className="flex flex-1 overflow-hidden">
         <Sidebar />
-        // Dashboard
         
         <main className="flex-1 overflow-y-auto">
           <Dashboard />
